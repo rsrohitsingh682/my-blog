@@ -1,0 +1,10 @@
+[book]
+authors = ["Rohit Singh"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Blog Posts"
+
+[output.html]
+default-theme = "Ayu"
+cname = "blogs.rdev.in"
